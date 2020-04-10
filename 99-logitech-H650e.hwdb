@@ -1,0 +1,6 @@
+# Logitech Inc Logitech Stereo H650e inline button map:
+
+evdev:name:Logitech Inc Logitech Stereo H650e*
+ KEYBOARD_KEY_b002f=f20 # map the mic mute button scan code to the F20 key
+ KEYBOARD_KEY_c00ea=unknown # prevent the volume down button from creating suprious popups 
+ KEYBOARD_KEY_c00e9=unknown # prevent the volume up button from creating suprious popups
